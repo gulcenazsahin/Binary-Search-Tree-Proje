@@ -1,5 +1,5 @@
 # [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
-## Örnek: root x'dir. root'un sağından y bulunur. Solundan z bulunur vb.
+## Örnek: Root x'dir. Root'un sağından y bulunur. Solundan z bulunur vb.
 
 Root 5’dir. Root’un sagindan 7 bulunur. Solundan 3 bulunur .
 
